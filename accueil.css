@@ -130,6 +130,28 @@ hr {
     height: 535px;
 }
 
+.sommaireJeu{
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color: #00796b;
+    color: white;
+    z-index: 500;
+}
+
+.sommaireJeu p, .sommaireLecon p {
+    color: whitesmoke;
+}
+
+.sommaireLecon{
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color: #00796b;
+    color: white;
+    z-index: 500;
+}
+
 @media screen and (max-width: 800px)
 {
     a{
