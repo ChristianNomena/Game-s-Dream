@@ -52,9 +52,9 @@ $(document).ready(() => {
     $('.footer').hover(function () {
         $('.sommaireJeu').fadeOut(250)
         $('.sommaireLecon').fadeOut(250)
-        
-    }, function () {
-        // out
-    }
-)
+            
+        }, function () {
+            // out
+        }
+    )
 })

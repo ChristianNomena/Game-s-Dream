@@ -1,0 +1,32 @@
+body{
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input{
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 3px 5px;
+    box-shadow: inset 0 3px 6px rgba(0,0,0,0.1);
+    width: 190px;
+}
+
+.bouton{
+    color: white;
+    font-size: 15px;
+    border-radius: 12px 0 12px 0;
+    background: #48a999;
+    border: none;
+    padding: 6px 0 6px 0;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 25px;
+    transition: background-color ease 1s;
+}
+
+.bouton:hover{
+    background-color: #00796b;
+}
+

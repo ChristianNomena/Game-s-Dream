@@ -25,13 +25,16 @@ a, nav .links{
     font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+/*
 a{
     height: 38.2px;
     display: inline-block;
     padding: 20px 10px 0 10px;
 }
+*/
 
 .footer{
+    margin-top: 2em;
     position: relative;
     left: 0;
     bottom: 0;
@@ -80,14 +83,14 @@ a{
     width: 100%;
 }
 
-.fond{
+.fondSlide{
     width: 100%;
 }
 
 /* Les boutons suivant et précédent */
 .prev, .next {
     cursor: pointer;
-    top: 15em;
+    top: 13em;
     width: auto;
     padding-bottom: 3px;
     font-weight: bold;
@@ -152,6 +155,17 @@ hr {
     z-index: 500;
 }
 
+.sommaireLecon a, .sommaireJeu a {
+    margin-top: 1em;
+    display: block;
+    padding: 0 0 0 0;
+    height: 26px;
+}
+
+.sommaireLecon a:hover, .sommaireJeu a:hover {
+    font-weight: bold;
+}
+
 @media screen and (max-width: 800px)
 {
     a{
@@ -173,7 +187,7 @@ hr {
     }
 
     .prev, .next {
-        top: 7em;
+        top: 3.6em;
     }
 
 }
