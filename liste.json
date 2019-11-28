@@ -1,0 +1,589 @@
+[
+    {
+        "id": 1,
+        "titre": "GTA V",
+        "prix": "120 000 Ar",
+        "image": "images/gta_5.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+            "mode": "Solo, Multijoueur",
+            "date": "17 septembre 2013"
+        },
+        "description": "Grand Theft Auto V est un jeu vidéo d'action-aventure, développé par Rockstar North et édité par Rockstar Games. Il s'agit du premier titre majeur de la série des jeux vidéo Grand Theft Auto depuis la commercialisation de Grand Theft Auto IV en 2008, et d'une suite de l'univers fictif intronisé dans ce jeu.",
+        "config": {
+            "cpu": "Intel Core 2 Quad Q6600 @ 2.40GHz (4 CPUs)",
+            "ram": "6 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA 9800 GT",
+            "vram": "1 GO",
+            "shader": "4.0",
+            "directx": "DirectX 10",
+            "storage": "70 GO"
+        },
+        "type": {
+            "best": 1,
+            "recent": 0,
+            "future": 0
+        }
+    },
+
+    {
+        "id": 2,
+        "titre": "PUBG",
+        "prix": "120 000 Ar",
+        "image": "images/pubg.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4, Xbox One",
+            "mode": "Multijoueur, Battle Royale",
+            "date": "23 mars 2017"
+        },
+        "description": "PlayerUnknown's Battlegrounds est un jeu vidéo multijoueur en ligne de type battle royale développé et édité par PUBG Corporation, une filiale de l'éditeur Krafton Game Union. Il est disponible en accès anticipé sur Microsoft Windows à partir du 23 mars 2017, et la version 1.0 du jeu est sortie le 20 décembre 2017.",
+        "config": {
+            "cpu": "Intel Core i5-4430",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 960",
+            "vram": "2 GO",
+            "shader": "5.1",
+            "directx": "DirectX 11",
+            "storage": "30 GO"
+        },
+        "type": {
+            "best": 1,
+            "recent": 0,
+            "future": 0
+        }
+    },
+
+    {
+        "id": 3,
+        "titre": "COD : MW",
+        "prix": "120 000 Ar",
+        "image": "images/cod_mw.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4, Xbox One",
+            "mode": "Solo, Multijoueur",
+            "date": " 25 octobre 2019"
+        },
+        "description": "Call of Duty: Modern Warfare est un jeu vidéo de tir à la première personne développé par Infinity Ward et édité par Activision. Il est sorti le 25 octobre 2019 sur Windows, PlayStation 4 et Xbox One.",
+        "config": {
+            "cpu": "Intel Core i3-4340",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 670",
+            "vram": "2 GO",
+            "shader": "5.0",
+            "directx": "DirectX 11",
+            "storage": "30 GO"
+        },
+        "type": {
+            "best": 1,
+            "recent": 1,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 4,
+        "titre": "Watch Dogs 2",
+        "prix": "120 000 Ar",
+        "image": "images/watch_dogs_2.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4, Xbox One",
+            "mode": "Solo, Multijoueur",
+            "date": "15 novembre 2016"
+        },
+        "description": "C'est un jeu vidéo d'action-aventure et d'infiltration développé par le studio Ubisoft Montréal et édité par Ubisoft. C'est la suite du jeu Watch Dogs sorti en 2014. Le jeu est sorti le 15 novembre 2016 sur PlayStation 4, Xbox One et le 29 novembre 2016 sur Microsoft Windows.",
+        "config": {
+            "cpu": "Intel Core i5 2400s @ 2.5 GHz",
+            "ram": "6 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 660",
+            "vram": "2 GO",
+            "shader": "5.0",
+            "directx": "DirectX 11",
+            "storage": "50 GO"
+        },
+        "type": {
+            "best": 1,
+            "recent": 0,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 5,
+        "titre": "Civilization VI",
+        "prix": "120 000 Ar",
+        "image": "images/civilization_6.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, Linux, Mac OS, Nintendo Switch, iOS",
+            "mode": "Solo, Multijoueur",
+            "date": "21 octobre 2016"
+        },
+        "description": "Sid Meier's Civilization VI est un jeu vidéo de stratégie au tour par tour de type 4X et le sixième opus de la série Civilization, développé par Firaxis Games et édité par 2K Games.",
+        "config": {
+            "cpu": "Intel Core i3 2.5 Ghz",
+            "ram": "4 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GT 450",
+            "vram": "1 GO",
+            "shader": "4.0",
+            "directx": "DirectX 11",
+            "storage": "12 GO"
+        },
+        "type": {
+            "best": 1,
+            "recent": 0,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 6,
+        "titre": "Rocket League",
+        "prix": "120 000 Ar",
+        "image": "images/rocket_league.jpg",
+        "caracteristique": {
+            "plateforme": "PlayStation 4, Nintendo Switch, Xbox One, Microsoft Windows, Linux, Mac OS",
+            "mode": "Solo, Multijoueur",
+            "date": "7 juillet 2015"
+        },
+        "description": "Rocket League est un jeu vidéo de sport développé par Psyonix, sorti en juillet 2015 sur Windows et sur PlayStation 4, en février 2016 sur Xbox One, en septembre 2016 sur Linux et Mac et en novembre 2017 sur Nintendo Switch. Il fait suite à Supersonic Acrobatic Rocket-Powered Battle-Cars.",
+        "config": {
+            "cpu": "Intel Dual core 2.4 GHz",
+            "ram": "2 GO",
+            "os": "Windows 7 32 Bits",
+            "graph": "NVIDIA GeForce GTX 260",
+            "vram": "512 GO",
+            "shader": "4.0",
+            "directx": "DirectX 11",
+            "storage": "5 GO"
+        },
+        "type": {
+            "best": 1,
+            "recent": 0,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 7,
+        "titre": "Far Cry 5",
+        "prix": "120 000 Ar",
+        "image": "images/far_cry_5.jpg",
+        "caracteristique": {
+            "plateforme": "PlayStation 4, Xbox One, Microsoft Windows",
+            "mode": "Solo, Multijoueur",
+            "date": "27 mars 2018"
+        },
+        "description": "Far Cry 5 est un jeu vidéo de tir à la première personne, d'action-aventure édité par Ubisoft et développé conjointement par les studios Ubisoft Montréal et Ubisoft Toronto. Après un premier teaser le 22 mai 2017, il est annoncé officiellement le 26 mai 2017, et sa sortie intervient le 27 mars 2018.",
+        "config": {
+            "cpu": "Intel Core i5-2400",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 670",
+            "vram": "2 GO",
+            "shader": "4.0",
+            "directx": "DirectX 11",
+            "storage": "25 GO"
+        },
+        "type": {
+            "best": 1,
+            "recent": 0,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 8,
+        "titre": "The Outer Worlds",
+        "prix": "120 000 Ar",
+        "image": "images/the_outer_worlds.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch",
+            "mode": "Solo, Multijoueur",
+            "date": "25 octobre 2019"
+        },
+        "description": "The Outer Worlds est un jeu vidéo d'action-RPG développé par Obsidian Entertainment et édité par Private Division. Le jeu est sorti le 25 octobre 2019 sur Windows, PlayStation 4, et Xbox One, et sera porté sur Nintendo Switch par Virtuos en 2020.",
+        "config": {
+            "cpu": "Intel Core i3-3225",
+            "ram": "4 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 650",
+            "vram": "1 GO",
+            "shader": "5.0",
+            "directx": "DirectX 11",
+            "storage": "40 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 1,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 9,
+        "titre": "GR Breakpoint",
+        "prix": "120 000 Ar",
+        "image": "images/ghost_recon_breakpoint.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4, Xbox One, Stadia",
+            "mode": "Solo, Multijoueur",
+            "date": "4 octobre 2019"
+        },
+        "description": "Tom Clancy's Ghost Recon Breakpoint est un jeu vidéo de tir tactique en monde ouvert développé et édité par Ubisoft, sorti le 4 octobre 2019 sur Microsoft Windows, PlayStation 4 et Xbox One et prévu pour novembre 2019 sur Stadia.",
+        "config": {
+            "cpu": "Intel Core i5 4460",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 960",
+            "vram": "2 GO",
+            "shader": "5.1",
+            "directx": "DirectX 11",
+            "storage": "50 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 1,
+            "future": 0
+        }
+    },
+
+    {
+        "id": 10,
+        "titre": "WWE 2K20",
+        "prix": "120 000 Ar",
+        "image": "images/wwe_2k20.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4, Xbox One",
+            "mode": "Solo, Multijoueur",
+            "date": "22 octobre 2019"
+        },
+        "description": "WWE 2K20 est un jeu vidéo édité par 2K Sports. Il est sorti le 22 octobre 2019, mondialement sur PlayStation 4 et Xbox One. Il s'agit de la vingt et unième édition basée sur la promotion de catch World Wresling Entertainment, et du septième opus de la série WWE 2K.",
+        "config": {
+            "cpu": "Intel Core iI5 3550",
+            "ram": "4 GO",
+            "os": "Windows 10 64 Bits",
+            "graph": "NVIDIA GeForce GTX 680",
+            "vram": "2 GO",
+            "shader": "5.0",
+            "directx": "DirectX 11",
+            "storage": "50 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 1,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 11,
+        "titre": "FIFA 20",
+        "prix": "120 000 Ar",
+        "image": "images/fifa_20.jpg",
+        "caracteristique": {
+            "plateforme": "PlayStation 4, Nintendo Switch, Xbox One, Microsoft Windows",
+            "mode": "Solo, Multijoueur",
+            "date": "24 septembre 2019"
+        },
+        "description": "FIFA 20 est un jeu vidéo de football développé par EA Canada et EA Roumanie et édité par EA Sports. La date de sortie du jeu, annoncée à l'E3 2019, est prévue le 27 septembre 2019 sur PC, PlayStation 4, Xbox One et Nintendo Switch.",
+        "config": {
+            "cpu": "Intel Core i3-2100",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 660",
+            "vram": "2 GO",
+            "shader": "5.0",
+            "directx": "DirectX 11",
+            "storage": "50 GO"
+        },
+        "type": {
+            "best": 1,
+            "recent": 1,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 12,
+        "titre": "eFootball PES 2020",
+        "prix": "120 000 Ar",
+        "image": "images/pes_2020.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4, Xbox One",
+            "mode": "Solo, Multijoueur",
+            "date": "10 Septembre 2019"
+        },
+        "description": "eFootball Pro Evolution Soccer 2020 est un jeu vidéo de football de la série Pro Evolution Soccer développé par PES Productions et édité par Konami. Ce nouvel opus est le 19ᵉ de la série PES. Le jeu est sorti initialement le 10 septembre 2019 sur PlayStation 4, Xbox One et Microsoft Windows.",
+        "config": {
+            "cpu": "Intel Core i5 3470",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 670",
+            "vram": "2 GO",
+            "shader": "5.0",
+            "directx": "DirectX 11",
+            "storage": "40 GO"
+        },
+        "type": {
+            "best": 1,
+            "recent": 1,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 13,
+        "titre": "Battle Planet",
+        "prix": "120 000 Ar",
+        "image": "images/battle_planet.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4, Nintendo Switch",
+            "mode": "Solo, Multijoueur",
+            "date": "Septembre 2019"
+        },
+        "description": "Battle Planet - Judgment Day est un jeu de tir planétaire descendant très louche. Vous êtes l'un des 3 criminels les plus recherchés de l'univers en fuite, frayez-vous un chemin à travers des hordes d'extraterrestres, d'unités militaires et policières. Il n'y a qu'un seul moyen de récupérer votre liberté, les détruire tous.",
+        "config": {
+            "cpu": "Intel Core i5 3470",
+            "ram": "2 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 560",
+            "vram": "1 GO",
+            "shader": "5.0",
+            "directx": "DirectX 11",
+            "storage": "2 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 1,
+            "future": 0
+        }
+    },
+    
+    {
+        "id": 14,
+        "titre": "Cyberpunk 2077",
+        "prix": "120 000 Ar",
+        "image": "images/cyberpunk_2077.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4, Xbox One, Stadia",
+            "mode": "Solo, Multijoueur",
+            "date": "16 Avril 2020"
+        },
+        "description": "Cyberpunk 2077 est un jeu vidéo d'action-RPG en vue à la première personne développé par CD Projekt RED, fondé sur la série de jeu de rôle sur table Cyberpunk 2020 créée par Mike Pondsmith.",
+        "config": {
+            "cpu": "Intel Core i5-2500K 3.3GHz",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 960",
+            "vram": "2 GO",
+            "shader": "5.1",
+            "directx": "DirectX 11",
+            "storage": "70 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 0,
+            "future": 1
+        }
+    },
+    
+    {
+        "id": 15,
+        "titre": "Death Stranding",
+        "prix": "120 000 Ar",
+        "image": "images/death_stranding.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, PlayStation 4",
+            "mode": "Solo, Multijoueur",
+            "date": "8 Novembre 2019"
+        },
+        "description": "Death Stranding est un jeu vidéo développé par Kojima Productions et édité par Sony Interactive Entertainment. Actuellement en cours de développement, le jeu sortira le 8 novembre 2019 sur PlayStation 4 et en été 2020 sur Windows.",
+        "config": {
+            "cpu": "Intel Core i5-2500K 3.3GHz",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 960",
+            "vram": "2 GO",
+            "shader": "5.1",
+            "directx": "DirectX 11",
+            "storage": "50 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 0,
+            "future": 1
+        }
+    },
+    
+    {
+        "id": 16,
+        "titre": "Planet Zoo",
+        "prix": "120 000 Ar",
+        "image": "images/planet_zoo.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows",
+            "mode": "Solo, Multijoueur",
+            "date": "5 Novembre 2019"
+        },
+        "description": "Planet Zoo est un jeu vidéo de simulation et de gestion d'un parc zoologique, développé et édité par Frontier Developments. Le jeu sera disponible le 5 novembre 2019 sur Windows. Le jeu est annoncé comme le successeur spirituel de Zoo Tycoon.",
+        "config": {
+            "cpu": "Intel Core i5-2500",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 770",
+            "vram": "2 GO",
+            "shader": "5.0",
+            "directx": "DirectX 11",
+            "storage": "16 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 0,
+            "future": 1
+        }
+    },
+    
+    {
+        "id": 17,
+        "titre": "Star Citizen",
+        "prix": "120 000 Ar",
+        "image": "images/star_citizen.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, Linux",
+            "mode": "Solo, Multijoueur",
+            "date": "2020"
+        },
+        "description": "Star Citizen est un jeu vidéo de simulation spatiale et d'aventure en cours de développement pour Windows et Linux édité et développé par Cloud Imperium Games.",
+        "config": {
+            "cpu": "Intel Core i7-3770 4-Core 3.4GHz",
+            "ram": "12 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 780",
+            "vram": "2 GO",
+            "shader": "5.0",
+            "directx": "DirectX 12",
+            "storage": "100 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 0,
+            "future": 1
+        }
+    },
+    
+    {
+        "id": 18,
+        "titre": "Fallen Order",
+        "prix": "120 000 Ar",
+        "image": "images/start_wars_jedi_fallen_order.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, Playstation 4, Xbox One",
+            "mode": "Solo, Multijoueur",
+            "date": "15 Novembre 2019"
+        },
+        "description": "Star Wars Jedi: Fallen Order est un jeu vidéo d'action-aventure basé sur la licence Star Wars développé par Respawn Entertainment et édité par Electronic Arts.",
+        "config": {
+            "cpu": "Intel Core i3-3220",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 650",
+            "vram": "1 GO",
+            "shader": "5.0",
+            "directx": "DirectX 12",
+            "storage": "55 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 0,
+            "future": 1
+        }
+    },
+    
+    {
+        "id": 19,
+        "titre": "Flight Simulator",
+        "prix": "120 000 Ar",
+        "image": "images/microsoft_flight_simulator",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, Xbox One",
+            "mode": "Solo, Multijoueur",
+            "date": "2020"
+        },
+        "description": "Microsoft Flight Simulator est un simulateur de vol en cours de développement appartenant à la série Microsoft Flight Simulator, développé par Asobo Studio et dont la commercialisation est prévue pour 2020 pour le PC.",
+        "config": {
+            "cpu": "Intel Core i5-2500K 3.3GHz",
+            "ram": "8 GO",
+            "os": "Windows 7 64 Bits",
+            "graph": "NVIDIA GeForce GTX 960",
+            "vram": "2 GO",
+            "shader": "5.1",
+            "directx": "DirectX 11",
+            "storage": "50 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 0,
+            "future": 1
+        }
+    },
+    
+    {
+        "id": 20,
+        "titre": "NFS Heat",
+        "prix": "120 000 Ar",
+        "image": "images/nfs_heat.jpg",
+        "caracteristique": {
+            "plateforme": "Microsoft Windows, Xbox One, PlayStation 4",
+            "mode": "Solo, Multijoueur",
+            "date": "8 Novembre 2019"
+        },
+        "description": "Need for Speed Heat est un jeu vidéo de course en développement, dont la sortie est prévue pour le 8 novembre 2019. Il est développé par Ghost Games et édité par Electronic Arts. Il fait suite à Need for Speed Payback, sorti deux ans plus tôt.",
+        "config": {
+            "cpu": "Intel Core i5-3570",
+            "ram": "8 GO",
+            "os": "Windows 10 64 Bits",
+            "graph": "NVIDIA GeForce GTX 760",
+            "vram": "2 GO",
+            "shader": "5.0",
+            "directx": "DirectX 11",
+            "storage": "50 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 0,
+            "future": 1
+        }
+    },
+    
+    {
+        "id": 21,
+        "titre": "Marvel's Avengers",
+        "prix": "120 000 Ar",
+        "image": "images/marvels_avengers.jpg",
+        "caracteristique": {
+            "plateforme": "PlayStation 4, Xbox One, Microsoft Windows, Stadia",
+            "mode": "Solo, Multijoueur",
+            "date": "15 mai 2020"
+        },
+        "description": "Marvel's Avengers est un jeu vidéo édité par Square Enix en collaboration avec Marvel Games. Il est développé par Crystal Dynamics, Eidos Montréal, Nixxes Software et Crystal Northwest. Il est prévu pour 2020 sur Xbox One, PlayStation 4, PC et Stadia.",
+        "config": {
+            "cpu": "Core i5-2500K 3.3GHz",
+            "ram": "12 GO",
+            "os": "Windows 10 64 Bits",
+            "graph": "NVIDIA GeForce GTX 960",
+            "vram": "2 GO",
+            "shader": "5.1",
+            "directx": "DirectX 12",
+            "storage": "50 GO"
+        },
+        "type": {
+            "best": 0,
+            "recent": 0,
+            "future": 1
+        }
+    }
+]
